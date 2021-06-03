@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pourtraiture of His royal Highness, Oliver late Lord Protector &amp;c. in his life and death with a short view of his government, as also a description of his standing and lying in state at Sommerset-House, and the manner of his funeral solemnity on Tuesday November 23.</title>
+         </titleStmt>
+         <extent>Approx. 69KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55505</idno><idno type="EEBO-CITATION">18476298</idno>
+  <idno type="VID">107801</idno>
+  <idno type="EEBO-PROQUEST">2248560424</idno>
+  
+            <idno type="STC">Wing D448A</idno>
+            <idno type="STC">Wing P3004_CANCELLED</idno>
+            <idno type="STC">ESTC R39715</idno>
+            <idno type="OCLC">18476298</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107801)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1642:3 or 1864:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pourtraiture of His royal Highness, Oliver late Lord Protector &amp;c. in his life and death with a short view of his government, as also a description of his standing and lying in state at Sommerset-House, and the manner of his funeral solemnity on Tuesday November 23.</title>
+                  <author>H. D. (Henry Dawbeny)</author>
+               </titleStmt>
+               <extent>69 [i.e. 68] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Edward Thomas, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved frontispiece of Cromwell opposite t.p.</note>
+                  <note>Attributed to Henry Dawbeny by Wing.</note>
+                  <note>Numerous errors in paging.</note>
+                  <note>Item at reel 1642:3 identified as Wing P3004 (number cancelled).</note>
+                  <note>Reproductions of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+               <term type="corporate_name">England and Wales. --  Lord Protector (1653-1658 : O. Cromwell)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107801:1"/>
+            <p>THE POURTRAITURE OF HIS Royal Highness, OLIVER LATE Lord Protector &amp;c. In His LIFE and DEATH; With a short View OF HIS GOVERNMENT. As also a Description of his standing and lying in State at <hi>Sommerset-house,</hi> And the manner of his Funeral Solemnity, on Tuesday <hi>November 23.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. N.</hi> for <hi>Edward Thomas,</hi> and are to be sold at his Shop at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britain.</hi> 1659.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:107801:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of Oliver Cromwell</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:107801:2"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:107801:3"/>
+            <pb facs="tcp:107801:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou hast here presen<g ref="char:EOLhyphen"/>ted to thy view (in Epitome) the most Remarkable Passages of his Highness the Late Lord Protector, who from the private Condition of a Gentleman, advanced himself to the highest pitch of Government, and Soveraign Au<g ref="char:EOLhyphen"/>thority: Here thou mayst behold him as a great General in all his Successes and Victories both at home and a<g ref="char:EOLhyphen"/>broad, as a prudent and politick Go<g ref="char:EOLhyphen"/>vernour, in his Treatys of Peace with Forreign Princes and States; and as a Person inimitable in the manage<g ref="char:EOLhyphen"/>ment of Affairs at home, having after a Bloody Civil War, settled these
+<pb facs="tcp:107801:4"/> Nations in Peace; and then to Crown all his matchless successes, to dye in Peace in his Bed, on that very Third of <hi>September,</hi> whereon he had gain<g ref="char:EOLhyphen"/>ed two Signall Victories; leaving his Son to succeed him in the Govern<g ref="char:EOLhyphen"/>ment, who hath not spared the ut<g ref="char:EOLhyphen"/>most Cost to see him honorably Inter<g ref="char:EOLhyphen"/>red; The manner of which, and his standing and lying in State, thou wilt finde methodically recited in this little Volume; which submits it self to thy perusal.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:107801:4"/>
+            <head>The Pourtraiture of his Royal Highness, <hi>OLIVER</hi> late Lord Protector &amp;c. in his Life and Death, with a short View of his Go<g ref="char:EOLhyphen"/>vernment, &amp;c.</head>
+            <p>
+               <hi>OLIVER CROM<g ref="char:EOLhyphen"/>VVELL,</hi> late Lord Protector of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> was born the 25 of <hi>April,</hi> 1599 in the Town of <hi>Huntington,</hi> of an an<g ref="char:EOLhyphen"/>cient and honorable Family; yet was he less conspicuous by his Birth, and the deeds of his Ancestors (however sufficiently famous) then by his own Innate vertues, his Prudence, Resolu<g ref="char:EOLhyphen"/>tion and Grandeur (which is indeed the true Nobility) and that future greatness which God in his Providence had reserved for him.</p>
+            <p>In his Childhood he discovered many clear glimpses of those growing qualities and Indowments which after<g ref="char:EOLhyphen"/>ward
+<pb n="8" facs="tcp:107801:5"/> rendred him so conspicuous in the Eyes of all the World; as a quick and lively Apprehension, a piercing and sagacious Wit, a solid Judgment, and a deep foresight into the probabi<g ref="char:EOLhyphen"/>lity of future Events.</p>
+            <p>Being Educated at a private School, he was quickly judged meet for the University, and accordingly betook himself to his Studie at <hi>Cambridge,</hi> seated so commodiously near to the place of his Birth and Education, as if so illustrious a Nurse stood ready to afford her Brests to so considerable a son; here he lived for some years; After which he came to <hi>Lincolnes</hi>-Inn (one of the Inns of Court) where he associated himself with those of the best rank and Quality and the most ingenuous persons; for though he were of a nature not averse to study and contemplation; yet he seemed ra<g ref="char:EOLhyphen"/>ther addicted to Conversation and the reading of men, and their several Tempers, then to a continual poring upon Authors.</p>
+            <p>Being arrived to competent years,
+<pb n="9" facs="tcp:107801:5"/> he married into the ancient and noble Family of the <hi>Bourchers,</hi> sometimes Earles of <hi>Essex,</hi> by whom he hath living two Sons, the Lord <hi>Richard,</hi> lately made Protector in his Fathers room, and the Lord <hi>Henry</hi> now Lord Lieutenant of <hi>Ireland,</hi> Persons of great honor, hopes and abilities; and four Daughters, all Ladies of eminent ver<g ref="char:EOLhyphen"/>tues: the Lady <hi>Bridget,</hi> his eldest, first married to the Lord <hi>Ireton,</hi> lately Lord Deputy of <hi>Ireland,</hi> and since his De<g ref="char:EOLhyphen"/>cease, to the Right Noble Lord <hi>Charls Fleetwood:</hi> The Lady <hi>Elizabeth</hi> his se<g ref="char:EOLhyphen"/>cond Daughter, married to the Lord <hi>Cleypole,</hi> lately deceased: The Lady <hi>Mary,</hi> his third Daughter, married to the Right Honorable the Lord Vis<g ref="char:EOLhyphen"/>count <hi>Fauconberge:</hi> The Lady <hi>Francis</hi> his fourth and youngest Daughter married to the Right Honorable <hi>Ro<g ref="char:EOLhyphen"/>bert Rich</hi> since deceased, Grand-child to the Right Honorable the Earl of <hi>VVarwick</hi>
+            </p>
+            <p>Then the long Parliament being called by the late King <hi>Charls,</hi> he was chosen a Member thereof, wherein
+<pb n="10" facs="tcp:107801:6"/> he was remarkable for his prudence and forwardness in asserting the pub<g ref="char:EOLunhyphen"/>lique Interest; and so continued, til<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> afterwards a bloody civil War insued, in which he took part with the Parli<g ref="char:EOLunhyphen"/>ament; his first command was no more then a Captain of a horse troop, which he raised at his own charge, and rising by degrees, shortly after came to be (by the Parliaments prudent choice) Commander in cheif, by his valor and good Conduct, putting an end to the sury of the War in <hi>England, Ireland,</hi> and <hi>South-wales,</hi> overthrowing Duke <hi>Hambletons</hi> Army, the Kyrks Armys at <hi>Dunbar;</hi> together with the reducing of all the Kingdom of <hi>Scotland,</hi> and defeating of <hi>Charls Stuarts</hi> Army at <hi>Worcester.</hi> After which having setled the Nations in Peace;</p>
+            <div type="section">
+               <head>
+                  <date>
+                     <hi>Anno.</hi> 1653.</date>
+               </head>
+               <p>
+                  <label>
+                     <date>
+                        <hi>DEcember</hi> the 16.</date>
+                  </label> The late Parlia<g ref="char:EOLhyphen"/>ment having upon their dissolu<g ref="char:EOLhyphen"/>tion delivered up the Power, which they received from his Excellency, then Lord General <hi>Cromwell,</hi> by a
+<pb n="11" facs="tcp:107801:6"/> writing under their hands and Seals, His Excellency thereupon called a Counsel of Officers, and advised with other persons of Interest in the Nation, how the great burthen of Governing <hi>England, Scotland</hi> and <hi>Ireland,</hi> with the Armys and Navys at Sea should be borne, who after several days seeking of God, and advising therein, it was resolved that a Council of Godly, able and discreet persons, should be named, consisting of twenty one, and that his Excellency should be chosen Lord Pro<g ref="char:EOLhyphen"/>tector of the three Na<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions; and this day his Excellency came down to <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and was installed Lord Pro<g ref="char:EOLhyphen"/>tector of the three Nations.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 19.</date>
+                  </label> His Excellency the Lord General was proclaimed <hi>Lord Protector</hi> by sound of Trompet, at the <hi>Pallace-yard,</hi> at <hi>Westminster,</hi> and at the <hi>Old-Exchange.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 21.</date>
+                  </label> Came forth a Procla<g ref="char:EOLhyphen"/>mation of his Highness and Councel, for continuing all persons being in Office, for the execution of publick Justice, at the time of the late change
+<pb n="12" facs="tcp:107801:7"/> of Government, untill his Highness further direction.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 26</date>
+                  </label> An Ordinance passed for the alteration of several Names and forms heretofore used in ourts, Grants, Patents, Commissions, &amp;c. and setling proceedings in Courts of Law in the Name and Title of the Lord Protector.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 29.</date>
+                  </label> The Government of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> containing forty two heads, with the Oath of his High<g ref="char:EOLhyphen"/>ness the Lord Protector were publish<g ref="char:EOLhyphen"/>ed in print.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 19.</date>
+                  </label> Passed two Ordinances, one for repealing several Acts, and Resolves of Parliament, made for or touching the subscribing, or taking the Engagement, the other declaring what offences shall be adjudged Treason.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 8.</date>
+                  </label> An Entertainment was given to his Highness the Lord Pro<g ref="char:EOLhyphen"/>tector in a very magnificent manner by the City of <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 26.</date>
+                  </label> The Lords <hi>Newport</hi> and <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ambassadors Extraordinary
+<pb n="13" facs="tcp:107801:7"/> from the States General of the <hi>Ʋnited Provinces</hi> arrived at <hi>Dover,</hi> and the third of March were conducted to <hi>London.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 23.</date>
+                  </label> Came forth the Or<g ref="char:EOLhyphen"/>dinance for Commissioners for the ap<g ref="char:EOLhyphen"/>probation of Publique Preachers.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 24.</date>
+                  </label> Was kept a day of so<g ref="char:EOLhyphen"/>lemne Humiliation throughout <hi>London</hi> and <hi>Westminster.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>
+                  <date>
+                     <hi>Anno</hi> 1654.</date>
+               </head>
+               <p>
+                  <label>
+                     <date>
+                        <hi>APril.</hi> 3.</date>
+                  </label> The Lord <hi>Whitelock,</hi> Lord <hi>Lisle,</hi> and Sir <hi>Thomas Wid<g ref="char:EOLhyphen"/>drington</hi> were appointed Lords Com<g ref="char:EOLhyphen"/>missioners of the Great Seal.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 5.</date>
+                  </label> The Articles of Peace be<g ref="char:EOLhyphen"/>tween <hi>England</hi> and the <hi>Ʋnited Pro<g ref="char:EOLhyphen"/>vinces,</hi> were this day signed and sealed by the Commissioners of the Council, and the Dutch Ambassassadors.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 26.</date>
+                  </label> The Peace between <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Holland</hi> was proclaimed in <hi>London</hi> and <hi>Westminster.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 2.</date>
+                  </label> A Proclamation for a Cessation of all Acts of Hostility be<g ref="char:EOLhyphen"/>tween the Commonwealth of <hi>England</hi> and the <hi>Ʋnited-Provinces.</hi>
+               </p>
+               <pb n="14" facs="tcp:107801:8"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 20.</date>
+                  </label> Discovery was made of a barbarous Conspiracy, undertaken by divers persons who were appre<g ref="char:EOLhyphen"/>hended about it, and committed to the Tower.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June</hi> 10.</date>
+                  </label> Writs were issued out and sent down into the Country, for chu<g ref="char:EOLhyphen"/>sing Members for the next Parliament.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June</hi> 13.</date>
+                  </label> An Ordnance came forth for establishing an High-Court of Justice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June</hi> 20.</date>
+                  </label> The Earl of <hi>Oxford.</hi> Mr. <hi>Phill. Porter, Somerset Fox,</hi> and one <hi>Fox</hi> his Brother, and Major <hi>Baily</hi> were committed to the Tower for High-Treason.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June</hi> 27.</date>
+                  </label> Lady <hi>Ingram,</hi> Wife to Sir <hi>Thomas Ingram,</hi> was committed to the Tower.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June.</hi> 29.</date>
+                  </label> Came forth the Ordi<g ref="char:EOLhyphen"/>nance against Challenges</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June.</hi> 30.</date>
+                  </label> Mr. <hi>John Gerrard,</hi> Mr. <hi>Peter Vowel,</hi> and <hi>Somerset Fox</hi> were tried before the High Court of Justice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>July</hi> 5.</date>
+                  </label>
+                  <hi>Don Pontaleon Sa,</hi> brother to the Lord Ambassador of <hi>Portugal,</hi> with a Knight of <hi>Malta,</hi> two other
+<pb n="15" facs="tcp:107801:8"/>
+                  <hi>Portugals,</hi> and an English Boy, were tried at the Upper Bench, for murder committed, divers months before at the <hi>New-Exchange.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>July</hi> 6.</date>
+                  </label> Mr. <hi>Gerrard,</hi> Mr. <hi>Vowel,</hi> and <hi>Somerset Fox</hi> were condemned by the High Court of Justice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>July</hi> 10.</date>
+                  </label> Mr. <hi>Vowel</hi> was executed at <hi>Chearing-Cross,</hi> Mr. <hi>John Gerrard</hi> and <hi>Don Pontaleon Sa,</hi> were beheaded on <hi>Tower-Hill; Somerset Fox</hi> was re<g ref="char:EOLhyphen"/>prieved; This day also the Articles of Peace were fully concluded be<g ref="char:EOLhyphen"/>tween <hi>England</hi> and <hi>Portugal.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>July</hi> 27.</date>
+                  </label> Mr <hi>John Rogers,</hi> of St. <hi>Thomas Apostles,</hi> was committed to the Serjeant at Arms, and Mr. <hi>John Sympson</hi> was enlarged.</p>
+               <p>About the end of this month <hi>Mid<g ref="char:EOLhyphen"/>dleton</hi> had a great overthrow in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> by his Highness forces, command<g ref="char:EOLhyphen"/>ed by General <hi>Monck,</hi> and Colonel <hi>Morgan.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>August</hi> 21.</date>
+                  </label>
+                  <hi>Marston</hi> was executed in <hi>Aldersgate-street.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>September</hi> 3.</date>
+                  </label> This day the Mem<g ref="char:EOLhyphen"/>bers of Parliament met in the Evening
+<pb n="16" facs="tcp:107801:9"/> at the <hi>Abbey</hi> Church in <hi>Westminster</hi> where Mr. <hi>Stephen Marshal</hi> preached before them, after Sermon they re<g ref="char:EOLhyphen"/>paired to the Parliament House, and immediately after, went to the <hi>Paint<g ref="char:EOLhyphen"/>ed-Chamber</hi> to meet his Highness, where they were dismissed, and no<g ref="char:EOLhyphen"/>thing done that night.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sep.</hi> 4.</date>
+                  </label> After Sermon in the Abby his Highness met the Parliament in the <hi>Painted-Chamber,</hi> where he delivered his mind very excellently in a Speech to the Parliament.</p>
+               <p>His Highness having done, the Members went to their House, and chose <hi>William Lenthal</hi> Esquire, to be their Speaker.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sep.</hi> 5.</date>
+                  </label> They appointed a Com<g ref="char:EOLhyphen"/>mittee for Priviledges, and after fell into debate, whether the Instrument of Government should be taken into consideration the morrow, and it was resolved it should.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sep.</hi> 10.</date>
+                  </label> Was published an Ordi<g ref="char:EOLhyphen"/>nance to enable such Soldiers as served the Commonwealth in the late Wars to exercise any Trade.</p>
+               <pb n="17" facs="tcp:107801:9"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sep.</hi> 12.</date>
+                  </label> This day his Highness <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>et the Parliament in the <hi>Painted-Chamber,</hi> and made a speech to them, <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lso the Recognition was signed by <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>40 Members.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sep.</hi> 13.</date>
+                  </label> The Parliament kept a <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of Humiliation.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sep.</hi> 14.</date>
+                  </label> More Members signed the Recognition, the Recognition was as followeth, <hi>I do hereby freely promise and engage, to be true and faithful to the</hi> Lord Protector, <hi>and the Common<g ref="char:EOLhyphen"/>wealth of</hi> England, Scotland <hi>and</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>and shall not (according to the Tenor of the Indenture, whereby I am returned to serve in Parliament) pro<g ref="char:EOLhyphen"/>pose or give my consent to alter the Go<g ref="char:EOLhyphen"/>vernment, as it is setled in one person and a Parliament.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>October</hi> 11.</date>
+                  </label> Was a day of Humi<g ref="char:EOLhyphen"/>liation.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Oct.</hi> 27,</date>
+                  </label> The Officers of the army <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>et at St <hi>James.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>November</hi> 1.</date>
+                  </label> The Officers kept a <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of Prayer at St <hi>James.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Nov.</hi> 3.</date>
+                  </label> The Petitions of the <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord <hi>Craven,</hi> and Sir <hi>John Stowel,</hi> were
+<pb n="18" facs="tcp:107801:10"/> read and taken into consideration.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Nov.</hi> 20.</date>
+                  </label> The Parliament passed divers resolves about the Govern<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>December</hi> 1.</date>
+                  </label> Died Mr. <hi>Iohn Selden</hi> one of the great Lights of the Nation.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Dec.</hi> 13.</date>
+                  </label> Mr. <hi>John Biddle,</hi> was by the House committed to the Gate-House.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Dec.</hi> 14.</date>
+                  </label> His books were burned by the Common-Hangman.</p>
+               <p>About the 20 of this month, Gene<g ref="char:EOLunhyphen"/>ral <hi>Vennables,</hi> with General <hi>Pen,</hi> se<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sail from <hi>Portsmouth,</hi> with most par<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the fleet, the rest followed.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Dec.</hi> 30.</date>
+                  </label>
+                  <hi>Theaura John</hi> was com<g ref="char:EOLunhyphen"/>mitted to the Gate-house.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 10.</date>
+                  </label> A new Conspiracy wa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> detected against his Highness, Majo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Norwood,</hi> Sir <hi>Henry Littleton,</hi> and Si<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>John Packington</hi> were committed t<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Tower.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 16.</date>
+                  </label> Major General <hi>Overto<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was committed to the Tower.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan</hi> 22.</date>
+                  </label> His Highness met th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parliament in the <hi>Painted-Chamber▪</hi> and after a speech of an hour and <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:107801:10"/> half long, he dissolved them.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 26.</date>
+                  </label> A day of Humiliation was kept by his Highness and the Council.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 12.</date>
+                  </label>
+                  <hi>Thompson</hi> and <hi>Weston</hi> were committed to the Tower; also Major <hi>Wildman,</hi> was apprehended near <hi>Marlborough</hi> in <hi>Wiltshire</hi> with a de<g ref="char:EOLhyphen"/>claration of <hi>Charls Stuart.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 17.</date>
+                  </label> Lord <hi>Grey</hi> of <hi>Groby</hi> was brought to <hi>Leicester</hi> with a party of horse, and after to <hi>Windsor Castle.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 5.</date>
+                  </label> The <hi>Militia</hi> of <hi>London</hi> receive Commissions from his High<g ref="char:EOLhyphen"/>ness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March.</hi> 7.</date>
+                  </label> His Highness and Counsel kept a private Fast at <hi>White-Hall.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March.</hi> 10.</date>
+                  </label> Sir <hi>Thomas Harris</hi> and his men, were taken upon a design to surprize <hi>Shrewsbury.</hi>
+               </p>
+               <p>The same day was Major <hi>Wildman</hi> committed to the Tower.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 12.</date>
+                  </label> News came of four or five hundred Cavaleer Horse, which were gotten together at the Forrest of <hi>Sherwood</hi> in <hi>Nottinghamshire,</hi> but a
+<pb n="20" facs="tcp:107801:11"/> suddain fear taking them, they disper<g ref="char:EOLhyphen"/>sed themselves.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 13.</date>
+                  </label> Came news of the rising of the Cavalier party, at <hi>Salis<g ref="char:EOLhyphen"/>bury,</hi> under one <hi>Wagstaff,</hi> Colonel <hi>Penruddock</hi> Lieutenant Colonell <hi>Boles</hi> one <hi>Grove,</hi> and two others named <hi>Iones &amp;c.</hi> Also from <hi>Northumberland</hi> came news of another party up, but being betrayed by their own fears and jea<g ref="char:EOLhyphen"/>lousies, they dispersed themselves.</p>
+               <p>News came of a party risen for <hi>Charles Stuart</hi> in <hi>Yorkshire</hi> but were dispersed.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 15.</date>
+                  </label>
+                  <hi>Penruddock Grove</hi> and <hi>Jones,</hi> were taken at <hi>Southmolton</hi> in <hi>Devonshire,</hi> by Captain <hi>Crook.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 15.</date>
+                  </label> Lord <hi>Tufton</hi> is seized in <hi>Kent,</hi> and committed to the Tower, Major General <hi>Harrison</hi> was carried to <hi>Portland.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 20.</date>
+                  </label> The new <hi>Militia</hi> of <hi>London</hi> being about 5000 in number, had a general Rendezvouz and that night a most lamentable fire brake out in <hi>Thread-needle-street London.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="21" facs="tcp:107801:11"/>
+               <head>
+                  <date>
+                     <hi>Anno</hi> 1655.</date>
+               </head>
+               <p>
+                  <label>
+                     <date>
+                        <hi>MArch</hi> 27.</date>
+                  </label> A Commission of Oyer and Terminer was issued out for the Tryal of the Cavaleers at <hi>Salisbury.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 27.</date>
+                  </label> The French King made an Imbargo upon English Vessels, Goods, and Merchandize in <hi>France.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 30.</date>
+                  </label> An Imbargo was or<g ref="char:EOLhyphen"/>dered here upon all French ships, to continue till the fourth of April.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April.</hi> 4.</date>
+                  </label> The Imbargo in <hi>England</hi> being expired, it was not renewed, upon supposition it was taken off in <hi>France.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 21.</date>
+                  </label> Twenty six were con<g ref="char:EOLhyphen"/>demned at <hi>Exon</hi> for Treason, and five or six at <hi>Chard.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May.</hi> 1.</date>
+                  </label> An extraordinary Am<g ref="char:EOLhyphen"/>bassador arrived at <hi>Dover</hi> from <hi>Spain.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May.</hi> 3.</date>
+                  </label>
+                  <hi>Lucas, Thorp,</hi> and <hi>Kensey</hi> were executed at <hi>Salisbury,</hi> the rest were reprieved. Fourteen were execu<g ref="char:EOLhyphen"/>ted at <hi>Exeter</hi> for Treason and Felony.</p>
+               <p>About this time <hi>Middleton</hi> flies be<g ref="char:EOLhyphen"/>yond the Sea.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May.</hi> 14.</date>
+                  </label> Letters out of <hi>Langue<g ref="char:EOLhyphen"/>doc,</hi>
+                  <pb n="22" facs="tcp:107801:12"/> in <hi>France</hi> gave an account of a cruel Massacre acted upon the poor Protestants in <hi>Piedmont,</hi> by the Soldi<g ref="char:EOLhyphen"/>ery of the Duke of <hi>Savoy,</hi> who came and fell upon them and their Wives and Children in their Houses, meerly for the cause of Religion, at the insti<g ref="char:EOLhyphen"/>gation of a certain Jesuited Conventi<g ref="char:EOLhyphen"/>cle in <hi>Savoy,</hi> who call themselves the Congregation for propagating the Catholick faith, after their old way of propagation by Massacres and Mur<g ref="char:EOLhyphen"/>ders; they slew many hundreds and villainously hanged up four Ministers of the Gospel.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 8.</date>
+                  </label> The Marquis of <hi>Leyda</hi> made an Address to his Highness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 12.</date>
+                  </label> A new Counsel was a<g ref="char:EOLhyphen"/>greed upon to be sent hence for the management of the Government of <hi>Scotland,</hi> under his Highness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 9.</date>
+                  </label> Lord <hi>Lambert</hi> is chosen Lord Warden of the Cinque-ports, and Colonel <hi>Nath. Fines</hi> made Lord Privy Seale.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 9.</date>
+                  </label> Was published his Highness Declaration, concerning the persecu<g ref="char:EOLhyphen"/>ted
+<pb n="23" facs="tcp:107801:12"/> Protestants in <hi>Savoy.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 12.</date>
+                  </label> Marquis of <hi>Leyda</hi> extraor<g ref="char:EOLhyphen"/>dinary Ambassador of <hi>Spain</hi> took leave of his Highness, in order to his return home.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 14.</date>
+                  </label> Was a day of humiliation throughout <hi>England,</hi> upon occasion of the cruelties acted upon the Estates and Bodys of our Protestant brethren within the Valleys of <hi>Piedmont</hi> under the Dominion of the Duke of <hi>Savoy.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>June</hi> 18.</date>
+                  </label> A great collection was made in the City and Suburbs for the persecuted Protestants in <hi>Savoy.</hi> The same day Marquis <hi>Leyda</hi> departed from <hi>London.</hi>
+               </p>
+               <p>About this time several of the Cava<g ref="char:EOLhyphen"/>lier party were secured in the several Counties of <hi>England.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 28.</date>
+                  </label> Major <hi>Sedgwick</hi> with a squadron of 12 ships designed for the assistance of our Generals in the <hi>West-Indies,</hi> did set sail from <hi>Dover.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 5.</date>
+                  </label> Was published a Proclama<g ref="char:EOLhyphen"/>tion for the reliefe of Godly Ministers against Suits and Molestations by per<g ref="char:EOLhyphen"/>sons sequestred, ejected, or not appro<g ref="char:EOLhyphen"/>ved.</p>
+               <pb n="24" facs="tcp:107801:13"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 5</date>
+                  </label> His Highness and Counsel appointed Judges for the several Courts of Justice in <hi>Ireland.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 6.</date>
+                  </label> Came forth a Proclamation, commanding all persons of the late Kings party or his Sons to depart out of the Citys of <hi>London</hi> and <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> or late lines of communication, on or before the 12 of <hi>July</hi> next.</p>
+               <p>General <hi>Blake</hi> with 30 sail of ships at this time, lay before <hi>Cadiz</hi> in <hi>Spain.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 28.</date>
+                  </label> Lord <hi>Christian Bond</hi> Am<g ref="char:EOLhyphen"/>bassador Extraordinary of the King of <hi>Sweden</hi> came to <hi>London.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 30.</date>
+                  </label> Mr. <hi>Rolt</hi> one of his High<g ref="char:EOLhyphen"/>ness Gentlemen went with the Rati<g ref="char:EOLhyphen"/>fication of the alliance between <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Sweden,</hi> set forward his jour<g ref="char:EOLhyphen"/>ney.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>July</hi> 31.</date>
+                  </label> The <hi>Swedish</hi> Ambassador had audience in the Banqueting house.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>August</hi> 4.</date>
+                  </label> Came a Messenger out of the <hi>West-Indies</hi> with letters from our fleet there, by which we had no<g ref="char:EOLhyphen"/>tice that our Generals had relinquish<g ref="char:EOLhyphen"/>ed <hi>Hispaniola,</hi> and were landed at <hi>Jamaica,</hi> and became Masters of that</p>
+               <pb n="49" facs="tcp:107801:13"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Aug.</hi> 11.</date>
+                  </label> The Lord Ambassador of <hi>Sweden</hi> was very nobly entertained at <hi>Hampton-Court.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sept.</hi> 6.</date>
+                  </label> Came an account of the Articles of agreement between the Duke of <hi>Savoy</hi> and the poor Protest<g ref="char:EOLhyphen"/>ants.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sept.</hi> 20.</date>
+                  </label> General <hi>Venables</hi> and <hi>Penn</hi> were committed to the Tower, and a Committee appointed to examine the business of the <hi>West-Indies.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sept.</hi> 21.</date>
+                  </label> We had news of the King of <hi>Spain</hi> his seizure of the goods of the Spanish Merchants within his Domi<g ref="char:EOLhyphen"/>nions.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sept.</hi> 27.</date>
+                  </label> The Marquis of <hi>Argile</hi> came to <hi>London.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>October</hi> 3.</date>
+                  </label> The <hi>Venetian</hi> Ambassa<g ref="char:EOLhyphen"/>dor extraordinary was conducted with the usual ceremonies and re<g ref="char:EOLhyphen"/>spects through <hi>London</hi> and <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> there to be entertained for some days at the publick charge.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 8.</date>
+                  </label> The aforesaid Ambassa<g ref="char:EOLhyphen"/>dor had publick audience of his High<g ref="char:EOLhyphen"/>ness in the Banqueting-house.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 10.</date>
+                  </label> Mr. <hi>John Biddle</hi> was re<g ref="char:EOLhyphen"/>moved
+<pb n="26" facs="tcp:107801:14"/> from the prison of <hi>Newgate London,</hi> to <hi>Plymouth,</hi> in order to his Transportation to the Island of <hi>Scilly.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 25.</date>
+                  </label> It was ordered by his Highness, that all Cavaleers and dis<g ref="char:EOLhyphen"/>affected persons depart the Cities of <hi>London</hi> and <hi>Westminster</hi> for four months.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 25.</date>
+                  </label> His Highness constituted several Major Generals in the several Counties, whose names are as follow<g ref="char:EOLhyphen"/>eth, <hi>viz.</hi> For <hi>Kent</hi> and <hi>Surrey,</hi> Colo<g ref="char:EOLhyphen"/>nel <hi>Kelsey: Sussex, Hampshire, Bark<g ref="char:EOLhyphen"/>shire,</hi> Colonel <hi>Goff; Glocester, Wilts, Dorset, Somerset, Devon, Cornwall,</hi> General <hi>Desborow; Oxon, Bucks, Hert<g ref="char:EOLhyphen"/>fort, Cambridge,</hi> Isle of <hi>Ely Essex, Norfolk</hi> and <hi>Suffolk.</hi> Lord Deputy <hi>Fleetwood: London,</hi> Major General <hi>Skippon: Lincolne, Nottingham Derby Warwick, Leicester,</hi> Comissary Gene<g ref="char:EOLhyphen"/>ral <hi>Whalley: Northampton, Bedford, Rutland, Huntington,</hi> Major <hi>Butler:</hi> For <hi>Worcester, Hereford, Salop</hi> and <hi>Northwales,</hi> Colonel <hi>Berry: Cheshire, Lancashire, Staffordshire</hi> Colonel <hi>Wor<g ref="char:EOLhyphen"/>sley: Yorkshire, Durham, Cumber<g ref="char:EOLhyphen"/>land,
+<pb n="27" facs="tcp:107801:14"/> Westmerland</hi> and <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> the Lord <hi>Lambert:</hi> and of <hi>West<g ref="char:EOLhyphen"/>minster</hi> and <hi>Middlesex</hi> the Lieutenant of the <hi>Tower.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 29.</date>
+                  </label>
+                  <hi>Alonzo de Cardenas</hi> Am<g ref="char:EOLhyphen"/>bassador of <hi>Spain,</hi> had audience in order to his departure.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>O<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ob.</hi> 30.</date>
+                  </label> The <hi>Venetian</hi> Ambassa<g ref="char:EOLhyphen"/>dor had private audience of his High<g ref="char:EOLhyphen"/>ness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 31,</date>
+                  </label> A Declaration was pub<g ref="char:EOLhyphen"/>lished shewing the grounds and rea<g ref="char:EOLhyphen"/>sons of the War with <hi>Spain.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>November</hi> 1.</date>
+                  </label> General <hi>Venables</hi> was set at liberty. The same day came forth an order for setling of the Trade and Navigation of the Nation.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 3.</date>
+                  </label> Came forth a declara<g ref="char:EOLhyphen"/>tion of his Highness against <hi>Charls Stuarts</hi> party.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 19,</date>
+                  </label> The Ambassador of <hi>France</hi> brought the Ratification of the Treaty of Peace, signed by his High<g ref="char:EOLhyphen"/>ness and his Majesty of <hi>France,</hi> and sealed with the seals of both Nations.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 4.</date>
+                  </label> Divers Ministers were called by letters from his Highness to
+<pb n="52" facs="tcp:107801:15"/>
+                  <hi>Whitehall,</hi> to consider of the propo<g ref="char:EOLhyphen"/>sals of <hi>Manasseh Ben Israel</hi> for the ad<g ref="char:EOLhyphen"/>mittance of the Jews, into this Nati<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 18.</date>
+                  </label> The conference con<g ref="char:EOLhyphen"/>cerning the Jews, this day ended with<g ref="char:EOLhyphen"/>out any further adjournment.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 16.</date>
+                  </label> Three Generals were ap<g ref="char:EOLhyphen"/>pointed for the Sea, <hi>Montague Desbo<g ref="char:EOLhyphen"/>row, Blake.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb</hi> 21.</date>
+                  </label> A General Imbargo was made of ships, as well strangers as English, for 21 days, other then should go under the protection of the fleet, and a letter written to the Commissi<g ref="char:EOLhyphen"/>oners of the custom, to that purpose.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <date>
+                     <hi>Anno.</hi> 1656.</date>
+               </head>
+               <p>
+                  <label>
+                     <date>
+                        <hi>IƲne</hi> 10.</date>
+                  </label> A party of soldiers design<g ref="char:EOLhyphen"/>ed for <hi>Jamaica</hi> out of <hi>Scotland</hi> as they marched by <hi>Ayre▪</hi> fell at variance with the garisoned soldiers, in which difference there were eight wounded, and four killed.</p>
+               <p>At the same time the Citadel of St. <hi>Johnstons</hi> in <hi>Scotla<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> was burnt.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 13.</date>
+                  </label> Major General <hi>Worsley</hi> was buried with much honor.</p>
+               <pb n="53" facs="tcp:107801:15"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 17.</date>
+                  </label> That famous Thief called <hi>Hannam</hi> was executed in <hi>Smithfield.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi>
+                        <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</date>
+                  </label> It was ordered by his High<g ref="char:EOLhyphen"/>ness and Counsel, that writs be issued out for the calling of a Parliament, according to the Tenor of the Go<g ref="char:EOLhyphen"/>vernment, and the time of their assem<g ref="char:EOLhyphen"/>bling to be the 17 of <hi>September</hi> next ensuing.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 10.</date>
+                  </label> The full ratification of the Treaty with <hi>Portugal</hi> was presented to his Highness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 15.</date>
+                  </label> The Writs of summons for the Parliament, having been sea<g ref="char:EOLhyphen"/>led, were sent to the several Counties.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 20.</date>
+                  </label> Being Sunday after Eve<g ref="char:EOLhyphen"/>ning Sermon, there hapned a dreadful storm of Thunder and Lightning and Hail as ever was known in <hi>England,</hi> in the City of <hi>Norwich.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>August</hi> 2.</date>
+                  </label> A squadron of ships were ordered to ply up and down before <hi>Dunkirk,</hi> to keep that Den of Theeves in order.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>August</hi> 26.</date>
+                  </label>
+                  <hi>Charles Stuart</hi> was received into <hi>Bruges</hi> in <hi>Flanders</hi> by order of the King of <hi>Spain.</hi>
+               </p>
+               <pb n="30" facs="tcp:107801:16"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Septemb.</hi> 12.</date>
+                  </label> Several persons of the Cavalier party having been apprehen<g ref="char:EOLhyphen"/>ded, were committed to the Tower; their names are as followeth, Lord <hi>Willough by</hi> of <hi>Parham,</hi> Lord <hi>Tufton,</hi> Sir <hi>Robert Sherly,</hi> Sir <hi>Robert Welch,</hi> Sir <hi>Luke Fitz Gerrard, Christopher Mus<g ref="char:EOLhyphen"/>grave, Joseph Nayler, John Ashburn<g ref="char:EOLhyphen"/>ham,</hi> Col. <hi>Iohn Russel,</hi> Col. <hi>Charls Go<g ref="char:EOLhyphen"/>ring,</hi> Col. <hi>Bourgh,</hi> Col. <hi>Mayerne.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Septemb.</hi> 17.</date>
+                  </label> It being the day ap<g ref="char:EOLhyphen"/>pointed for the meeting of the Par<g ref="char:EOLhyphen"/>liament, about ten a clock in the mor<g ref="char:EOLhyphen"/>ning his Highness attended by his Council, the Officers of State, and of the Army, the Gentlemen of his Hous<g ref="char:EOLhyphen"/>hold and his Guards, came to the Ab<g ref="char:EOLhyphen"/>bey Church <hi>Westminster,</hi> where the members of the Parliament being met, a Sermon was preached before them by Dr. <hi>John Owen,</hi> Vice Chancellor of <hi>Oxon.</hi> After Sermon his Highness and the Parliament met in the Painted Chamber, where his Highness was pleased to make a Speech to them, which being done, the Members re<g ref="char:EOLhyphen"/>paired to the House, and chose the
+<pb n="31" facs="tcp:107801:16"/> Right Honorable Sir <hi>Tho. Widdring<g ref="char:EOLhyphen"/>ton</hi> to be their Speaker.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sept.</hi> 20.</date>
+                  </label> The Lord Chief Baron <hi>Steel</hi> was made Chancelor of <hi>Ireland.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>October</hi> 1.</date>
+                  </label> Came news of a most sea<g ref="char:EOLhyphen"/>sonable success obtained by some of our Frigots against seven <hi>Spansh</hi> ships richly laden coming from the West Indies, being about nine leagues from <hi>Cadiz;</hi> the issue was that we burnt one, sunk another, ran two aground, and took two; one got away with a <hi>Portugal</hi> prize, in that ship which was burnt was the Marquis of <hi>Baydox;</hi> and a Daughter of his the young Marquis, and another of his Daughters were in one of the ships which were taken, and brought prisoners to <hi>England;</hi> Trea<g ref="char:EOLhyphen"/>sure was taken to a very great value. The prisoners related a great de<g ref="char:EOLhyphen"/>struction of 12000 <hi>Spaniards,</hi> and the l<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss of many Millions of Treasure at <hi>Lema</hi> in <hi>Peru</hi> by an E<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rthquake.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Oct<gap reason="illegible" resp="#oxf" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ber</hi> 3.</date>
+                  </label> The River of <hi>Thames</hi> ebbed and flowed twice in three hours space.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 8.</date>
+                  </label> was kept a day of publick
+<pb n="56" facs="tcp:107801:17"/> Thanksgiving, for the late success God was pleased to give part of the Fleet of this Commonwealth against the King of <hi>Spains</hi> West India Fleet in its return to <hi>Cadiz</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 10.</date>
+                  </label>
+                  <hi>Iames Nailor, Iohn Stranger,</hi> and his wife, <hi>Martha Si<g ref="char:EOLhyphen"/>monds,</hi> and <hi>Dorcas Erbury</hi> set forth from <hi>Bristol</hi> with the Messenger of Parliament with them to bring them prisoners; in their passage to <hi>London</hi> they were conveyed from Constable to Constable guarded with the Coun<g ref="char:EOLhyphen"/>try men; at the entrance into most Towns, they fell a singing, which caused admiration in the Country Peo<g ref="char:EOLhyphen"/>ple, and so likewise at their entrance into <hi>Westminster,</hi> which they perfor<g ref="char:EOLhyphen"/>med very melodiously.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 27.</date>
+                  </label> His Highness met the Parliament in the Painted Chamber where severall Bills were passed,
+<list>
+                     <item>1. An Act that passing of Bills shall not determine the present Session of Parliament.</item>
+                     <item>2, An Act for renouncing and dis<g ref="char:EOLhyphen"/>annulling the pretended Title of <hi>Chrals Stuart.</hi>
+                     </item>
+                     <pb n="57" facs="tcp:107801:17"/>
+                     <item>3 An Act for security of his High<g ref="char:EOLhyphen"/>ness the Lord Protectors person, and continuance of the Nation in peace and safety.</item>
+                     <item>4. An Act for taking away the Court of Wards and Liveries.</item>
+                     <item>5. An Act for exportation of seve<g ref="char:EOLhyphen"/>ral Commodities of the breed, growth, and Manufacture of this Common<g ref="char:EOLhyphen"/>wealth.</item>
+                     <item>6. An Act for altering the Leather-Market in Leaden hall from Munday to Tuesday in every week.</item>
+                  </list>
+               </p>
+               <p>Several private Bills passed also that have relation to private persons.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb</hi> 6.</date>
+                  </label>
+                  <hi>James Naylor</hi> was sent for, and heard at the Bar of the House.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Dec.</hi> 17.</date>
+                  </label> The Parliament passed sentence on <hi>James Naylor</hi> which was, that he be set on the Pillory in the new Palace <hi>Westminster,</hi> during the space of two hours on Thursday, and shall be whipped by the Hangman through the streets from <hi>Westminster</hi> to the <hi>Old-Exchange, London,</hi> and there like<g ref="char:EOLhyphen"/>wise to be set on the Pillory for the
+<pb n="34" facs="tcp:107801:18"/> space of two hours, between the hours of eleven and one on Saturday next, in each of the said places wear<g ref="char:EOLhyphen"/>ing a paper containing an Inscription of his Crimes, and at the <hi>Old-Exchange</hi> his tongue shall be boared thorough with a hot iron and that he be there also stigmatized in the Forehead with the letter <hi>B.</hi> and that he be afterwards sent to <hi>Bristol,</hi> and conveyed into, and through the said City on a Horse bare<g ref="char:EOLhyphen"/>ridged with his face backward; and there also publickly whipped the next Market day after he comes thither.</p>
+               <p>That from thence he be committed to prison in <hi>Bridewell London,</hi> and there restrained from the Society of all people, and kept to hard labor, till he shall be released by Parliament, and during that time be debarred from the use of pen, ink and paper, and shall have no relief but what he earns by his daily labor. Which Sentence was ex<g ref="char:EOLhyphen"/>ecuted accordingly.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 19.</date>
+                  </label> Mr. Secretary presented to the Parliament a Relation of a wicked design to take away the Lord
+<pb n="35" facs="tcp:107801:18"/> Protectors life, and to fire <hi>Whitehal,</hi> together with the Examinations of se<g ref="char:EOLhyphen"/>veral persons thereupon, were ready and they appointed the second of Fe<g ref="char:EOLhyphen"/>bruary to be a day of publick Thanks<g ref="char:EOLhyphen"/>giving to God for this discovery and great deliverance.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Jan.</hi> 23.</date>
+                  </label> The Speaker and whole body of the Parliament came to <hi>White<g ref="char:EOLhyphen"/>hal</hi> to congratulate his Highness the Lord Protector for the happy delive<g ref="char:EOLhyphen"/>rance from the late bloody design a<g ref="char:EOLhyphen"/>gainst his Highness person. To which purpose his Highness gave the Parlia<g ref="char:EOLhyphen"/>ment a meeting in the Banqueting house, where the sence and high af<g ref="char:EOLhyphen"/>fection of the House was delivered in a Speech by Mr. Speaker, and a sutable Reply was made thereunto by his Highness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Ian.</hi> 24.</date>
+                  </label> Proclamation was made of the peace between this Common<g ref="char:EOLhyphen"/>wealth and <hi>Portugal,</hi> both in <hi>London</hi> and <hi>Westminster,</hi> by sound of Trumpet, the Heralds attending in their forma<g ref="char:EOLhyphen"/>lities.</p>
+               <p>The same day <hi>Iames Naylor</hi> being
+<pb n="60" facs="tcp:107801:19"/> returned from <hi>Bristol</hi> to <hi>London,</hi> was conveyed to <hi>Bridewel,</hi> where he is to continue till he shall be released by Parliament.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 10.</date>
+                  </label>
+                  <hi>Miles Sindercombe</hi> was brought to his Tryal at the Upper-Bench, where after a full hearing of the Evidence, the Court proceeded to judgment upon the prisoner, that he should be drawn through the streets of <hi>London</hi> to <hi>Tyburn,</hi> there to be hanged on the Gallows until he be half dead, and then to be cut down, his Intrals and Bowels to be taken out and burnt in his sight, and his body di<g ref="char:EOLhyphen"/>vided into four quarters, and to be disposed as his Highness sha<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l think fit.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 13.</date>
+                  </label>
+                  <hi>Miles Sindercombe</hi> poi<g ref="char:EOLhyphen"/>soned himself, as appeared by the Vir<g ref="char:EOLhyphen"/>dict of the several Physitians, which were appointed to search his Body.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 17.</date>
+                  </label> He was drawn to the open place upon Tower-Hill, at a Horses tail with his Head forward, and there under the Scaffold of common execution, a hole being digged, he w<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s turned in st<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rke naked, and a Stake
+<pb n="61" facs="tcp:107801:19"/> spiked with iron, was driven throug him into the Earth; that part of the Stake that remains above ground being all plated with Iron, which may serve as an example of terror to all Traytors in time to come.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Feb.</hi> 20</date>
+                  </label> Was oberved as a day of pub<g ref="char:EOLhyphen"/>lick Thanksgiving for the happy de<g ref="char:EOLhyphen"/>liverance of the person of his High<g ref="char:EOLhyphen"/>ness. After the Sermons the Speaker and Members of Parliament repaired to Whitehal to dine with his Highness, who gave them in the Banquetting-house a Princely entertainment.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <date>
+                     <hi>Anno</hi> 1657.</date>
+               </head>
+               <p>
+                  <label>
+                     <date>
+                        <hi>APril</hi> 9.</date>
+                  </label> Discovery was made of an Insurrection intended by a sort of people, and that they in<g ref="char:EOLhyphen"/>tended to begin this night. Twenty persons were taken ready armed, booted and spurred in a house in <hi>Shore-ditch;</hi> their appointed Rendezvouz was intended to be at <hi>Mile-end-green,</hi> near <hi>VVhite-Chappel</hi> at nine a clock; with the said persons were taken also their Standard, the device whereof was a red Lyon Couchant in a White-Field,
+<pb n="38" facs="tcp:107801:20"/> and the Motto, <hi>Who shall rouze him up?</hi> This design was supposed to be laid in many places, and that Com<g ref="char:EOLhyphen"/>manders of their own were to go into several parts, and then all persons of their opinions were to flock to them.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 10.</date>
+                  </label> M. G. <hi>Harrison</hi> was sent for, and committed to the custody of the Serjeant at Arms, also Cap. <hi>Lawson</hi> late Vice Admiral, Col. <hi>Rich</hi> and one Major <hi>Danvers</hi> were take, into custody.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 4.</date>
+                  </label> Sir <hi>John Reynolds</hi> received his Commission to be Commander in cheif of those forces which were im<g ref="char:EOLhyphen"/>barked for Flanders</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 8.</date>
+                  </label> His Highness met the Par<g ref="char:EOLhyphen"/>liament in the Banquetting-house at <hi>Whitehall,</hi> and declared his mind to them, wherein he let them understand, that he came thither to give Answer to the desires that had been offered to him by the House in their Petition and Advice, and having given his Reason, he in conclusion returned this Answer, <hi>That he cannot undertake the Government with the title of a King.</hi>
+               </p>
+               <pb n="39" facs="tcp:107801:20"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 19.</date>
+                  </label> It was resolved by the Parliament that <hi>Lord Protector</hi> shall be the Title to be inserted into the Petition and Advice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 28.</date>
+                  </label> News came of a great defeat given to the Spanish Navy at <hi>Sancta Crux</hi> by Gen. <hi>Blake,</hi> being 16 in num<g ref="char:EOLhyphen"/>ber which came from the <hi>Indies,</hi> all which ships were sunk, blown up or destroyed.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 9.</date>
+                  </label> His Highnese and the Par<g ref="char:EOLhyphen"/>liament being met in the Painted Chamber, Seven publick Bills were passed.
+<list>
+                     <item>1 An Act for Assessment upon <hi>England</hi> for 6000 <hi>l. per</hi> moneth, for three moneths. from 25 of <hi>March</hi> 1657. to the 24 of <hi>Iune.</hi>
+                     </item>
+                     <item>2. An Act for limiting the prices of Wine, Spanish Wine 1 <hi>s.</hi> 6 <hi>d per</hi> quart, Renish wine 1 <hi>s. per</hi> quart, French Wine 7 <hi>d. per</hi> quart.</item>
+                     <item>3. An Act for taking away Purvey<g ref="char:EOLhyphen"/>ance.</item>
+                     <item>4. An Act for taking away the ri<g ref="char:EOLhyphen"/>gor of Forest Laws in the Forest of <hi>D<gap reason="illegible" resp="#oxf" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>an</hi> in the Country of <hi>Glocester.</hi>
+                     </item>
+                     <item>5. An Act against Vagrants and
+<pb n="64" facs="tcp:107801:21"/> wandring dissolute persons.</item>
+                     <item>6. An Act giving licence for trans<g ref="char:EOLhyphen"/>porting Fish in foraign Bottoms.</item>
+                     <item>7. An Act for an Assessment for <hi>Ireland</hi> for three moneths, for the maintenance of the Spanish War.</item>
+                  </list>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 20.</date>
+                  </label> Was the day appointed for the happy inauguration of his Highness the Lord Protector in West<g ref="char:EOLhyphen"/>minster-Hall, where a large place was raised at the upper end thereof for that purpose; there was in the midst thereof under the great window, a rich cloth of State set up, and under it a Chair of State placed upon an As<g ref="char:EOLhyphen"/>scent of two degrees, covered with Carpets, and before it a table with a Chair appointed for the Speaker of the Parliament; on each side of the Hall upon the said Structure were seats raised one above another, and decently covered for the Mem<g ref="char:EOLhyphen"/>bers of Parliament; and below them seats for the Judges of the Land on one side, and for the Aldermen of the City on the other. About two a clock in the afternoon his Highness met the
+<pb n="65" facs="tcp:107801:21"/> Parliament in the Painted Chamber, and passed such bills as were presented to him; after they went in order to the place appointed in Westminster-Hall, his Highness being entred on the place, and standing under the cloth of Estate, Mr. Speaker did in the name of the Parliament present seve<g ref="char:EOLhyphen"/>ral things (ready laid on the Table) to his Highness, <hi>viz.</hi> a Robe of purple Velvet, lined with Ermins, being the habit anciently used at the solemn in<g ref="char:EOLhyphen"/>vestiture of Princes, next a large Bible richly gilt and bossed, and lastly a Scep<g ref="char:EOLhyphen"/>ter being of Massie gold, which being so presented, Mr Speaker came from his Chair, took the Robe, and there<g ref="char:EOLhyphen"/>with vested his Highness, being as<g ref="char:EOLhyphen"/>sisted by the Earl of <hi>Warwick,</hi> the Lord <hi>Whitlock</hi> and others; which being done, the Bible was delivered to his Highness; after that Mr. Speaker girt about him the sword, and lastly deli<g ref="char:EOLhyphen"/>vered his Highness the Scepter. These things being performed, Master Speak<g ref="char:EOLhyphen"/>er returned unto his Chair, and admi<g ref="char:EOLhyphen"/>nistred the Oath to his Highness pre<g ref="char:EOLhyphen"/>pared
+<pb n="42" facs="tcp:107801:22"/> by the Parliament, His Highness standing thus adorned in princely state, Mr <hi>Manton</hi> by prayer recom<g ref="char:EOLhyphen"/>mended his Highness forces by Sea and Land, the whole Government and people of these Nations, to the bles<g ref="char:EOLhyphen"/>sing and protection of God Almighty. After the people gave several shouts, and the Trumpets sounding, his High<g ref="char:EOLhyphen"/>ness sate down in the chair of State, holding the Scepter in his hand: While his Highness thus sate, a Herald of Arms stood aloft giving a signal to a Trum<g ref="char:EOLhyphen"/>pet to sound three times, after which, he did by authority and direction of Parliament there publish and proclaim his Highness <hi>Lord Protector</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland</hi> and <hi>Ireland,</hi> and the Do<g ref="char:EOLhyphen"/>minions thereto belonging; hereupon the Trumpets sounded, and the people gave several acclamations, with loud shouts, <hi>God save the Lord Protector.</hi>
+               </p>
+               <p>After a little pause, the whole ce<g ref="char:EOLhyphen"/>remony being ended, his Highness sa<g ref="char:EOLhyphen"/>luting the Ambassadors and publick Ministers, proceeded thence in his princely habit, the Train whereof was
+<pb n="43" facs="tcp:107801:22"/> borne by six noble persons, and so pas<g ref="char:EOLhyphen"/>sed through the Hall into the Pallace<g ref="char:EOLhyphen"/>yard where his Highness entred into his coach, which was attended by his Highness Life-guard, and other guards, the Officers of state, the Lord Mayor and Aldermen all waiting on his High<g ref="char:EOLhyphen"/>ness to <hi>Whitehal,</hi> the whole business being manageed with state and mag<g ref="char:EOLhyphen"/>nificence suitable to so high and happy a solemnity.</p>
+               <p>The Bills that passed this day, as to private concernment I omit; but those of publick nature are as follow<g ref="char:EOLhyphen"/>eth.
+<list>
+                     <item>1. The Petition and Advice, with the additional explanatory Petition and Advice.</item>
+                     <item>2. And to adjourn this Parliament to the 20 of <hi>Ianuary</hi> next.</item>
+                     <item>3. An Act to transport fish in forrein Bottoms.</item>
+                     <item>6. An Act for Excise.</item>
+                     <item>7. An Act for <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5000 <hi>l.</hi> upon <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+                     </item>
+                     <item>8. An Act for an Assessment of 35000 <hi>l.</hi> on <hi>England,</hi> and 9000 <hi>l,</hi> up<g ref="char:EOLhyphen"/>on
+<pb n="68" facs="tcp:107801:23"/>
+                        <hi>Ireland,</hi> and 6000 <hi>l.</hi> on <hi>Scotland</hi> for three yeers.</item>
+                     <item>9. An Act to prevent a multipli<g ref="char:EOLhyphen"/>ity of Buildings in and about <hi>London.</hi>
+                     </item>
+                     <item>10. An Act against Recusarts.</item>
+                     <item>11. An Act touching persons that live at high rates, and have no visible Estates suitable thereunto</item>
+                  </list>
+               </p>
+               <p>The House according to the Act of Parliament did adjourn it self till the 20 of <hi>January</hi> next.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 1.</date>
+                  </label> His Highness the Lord Pro<g ref="char:EOLhyphen"/>tector was proclaimed in the City of <hi>London</hi> with great solemnity.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 8.</date>
+                  </label> News came that the Isle of <hi>Providence</hi> in the West Indies, which the Spaniards call <hi>Sancta Catelina</hi> was taken by our Forces from the Spaniards.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 29.</date>
+                  </label> The most illustrious Lord the Lord <hi>Richard Cromwell</hi> was installed Chancelor of the most famous Uni<g ref="char:EOLhyphen"/>versity of <hi>Oxon.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>August</hi> 10.</date>
+                  </label> Came the unwelcome news of the death of that gallant Gentleman Gen. <hi>Blake,</hi> at the very entrance into the Sound at <hi>Plimouth.</hi>
+               </p>
+               <pb n="69" facs="tcp:107801:23"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Septemb</hi> 4</date>
+                  </label> Was the day of the Fu<g ref="char:EOLhyphen"/>neral of the valiant and victorious-Gen. <hi>Reb. Blake,</hi> whose corps were conveyed with great solemnity from <hi>Greenwich</hi> by water to <hi>Westminster,</hi> and interred in a vault in <hi>Henry</hi> the Sevenths Chappel in the Abbey-Church.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Septemb.</hi> 26.</date>
+                  </label> Came news of the ta<g ref="char:EOLhyphen"/>king of <hi>Mardyke</hi> by the united forces of <hi>England</hi> and <hi>France,</hi> and was put in<g ref="char:EOLhyphen"/>to the possession of Maj Gen. <hi>Morgan</hi> for the use of his Highness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Octob.</hi> 24.</date>
+                  </label> Came news of a great Defeat given to a party of the enemy in <hi>Flanders</hi> under <hi>Charls-Stuart,</hi> the Marquis of <hi>Caracene,</hi> the titular Duke of <hi>York,</hi> as they attempted to take <hi>Mardike,</hi> they lost several hundreds of Souldiers, besides some great Offi<g ref="char:EOLhyphen"/>cers on our side none were lost, onely seven were wounded.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 11.</date>
+                  </label> The most illustrious Lady the Lady <hi>Francis Cromwel</hi> youngest Daughter of his Highness the Lord Protector, was married to the most noble Centleman Mr <hi>Robert
+<pb n="46" facs="tcp:107801:24"/> Rich,</hi> Son of the Lord <hi>Rich,</hi> Grand<g ref="char:EOLhyphen"/>child of the Earl of <hi>Warwick,</hi> and of the Countess Dowager of <hi>Devonshire.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 19.</date>
+                  </label> The most illustrious Lady the Lady <hi>Mary Cromwel</hi> third Daughter of his Highness the Lord Protector, was married to the most noble Lord the Lord <hi>Faconbridge,</hi> in the presence of their Highnesses, and many noble persons.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Novemb.</hi> 25.</date>
+                  </label> His excellency the Lord <hi>Henry Cromwel</hi> was made Lord Deputy of <hi>Ireland.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 5.</date>
+                  </label> Eight or nine Popish Preists were apprehended by order of the Council in and about Queen<g ref="char:EOLhyphen"/>street in Covent Garden. together with many of their Crucifixes, Beads, and other Trinkets, and were com<g ref="char:EOLhyphen"/>mitted to the Guard at St. <hi>James.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 12.</date>
+                  </label> Sixty persons were commanded by writ to sit in the other House of Parliament.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 16.</date>
+                  </label> We had an account of the sad loss of that worthy Gentle<g ref="char:EOLhyphen"/>man and Souldier, Sir, <hi>Iohn Reynolds,</hi> Col. <hi>White,</hi> and some other inferior
+<pb n="47" facs="tcp:107801:24"/> Officers, who were by a storm cast away as they were coming from <hi>Mar<g ref="char:EOLhyphen"/>dike</hi> into <hi>England.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Decemb.</hi> 25.</date>
+                  </label> This being the day commonly called Christmas, and di<g ref="char:EOLhyphen"/>vers of the old Clergy-men being as<g ref="char:EOLhyphen"/>sembled with people of their own Congregation in private, Mr. <hi>This<g ref="char:EOLhyphen"/>cross,</hi> Dr. <hi>Wilde,</hi> and Mr. <hi>Gunning</hi> their Preachers were secured to give an account of their doings.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Ianuary</hi> 20.</date>
+                  </label> The House having adjourned it self by Act of this present Parliament unto this day, did this day meet and sit, afterwards they met his Highness in the Lords House, where he made a Speech to both Houses.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Ian.</hi> 27.</date>
+                  </label> Both Houses kept a day of Humiliation within their own walls, Dr, <hi>Reynolds,</hi> Mr. <hi>Caryl,</hi> and Mr. <hi>How,</hi> preached in the Lords House, and Mr. <hi>Calamy,</hi> and Mr. <hi>Griffeth</hi> in the House of Commons.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>February.</hi> 4.</date>
+                  </label> Betwixt the hours of 10, and 11 his Highness came to the House of Lords, and commanded the Usher of the Black Rod to acquaint
+<pb n="48" facs="tcp:107801:25"/> the House of Commons, that his High<g ref="char:EOLhyphen"/>ness was come into the Lords House, and there expected them. The Usher of the Black Rod being called into the House of Commons, signified the same accordingly, whereupon the Speaker and the whole House coming into the Lords House, and standing without the Bar, his Highness stand<g ref="char:EOLhyphen"/>ing under a Cloth of Estate, m<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> a speech unto them, wherein he decla<g ref="char:EOLhyphen"/>red several u<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gent and weighty rea<g ref="char:EOLhyphen"/>sons making it necessary for him, in order to the publick peace and safety, to proced to an immediate dissolution of this Parliament, and accordingly his Highness dissolved the Parliament.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Febr.</hi> 16.</date>
+                  </label> Died the most noble Gentleman Mr. <hi>Rob. Rich,</hi> Son of the Lord <hi>Rich,</hi> Grandchild of the Earl of <hi>Warwick,</hi> and Husband of the most illustrious Lady, the Lady <hi>Francis</hi> youngest Daughter of his Highness, a young Noble man of great hopes, and of Vertues Answerable to the nobleness of his Extraction.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March.</hi> 12.</date>
+                  </label> The Lord Mayor, Al<g ref="char:EOLhyphen"/>dermen
+<pb n="49" facs="tcp:107801:25"/> and Common Council of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> came to <hi>Whitehall</hi> to attend his Highness, and also the Commanders and Officers of the Army, and being admitted to his presence, his Highness was pleased in a Speech at large to re<g ref="char:EOLhyphen"/>present to them the danger, wherein they of the whole City and the whole Nation were involved at present, by r<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>son of the new designs of the old Enemy intended, <hi>Ch. Stuart,</hi> and his Confederates abroad, and his party here at home, who have been at work secretsy to embroyl the Nation again into blood, as soon as he should be able to make his intended invasion, and divers particulars he was pleased to insist upon; wherefore his Highness recommended to the Lord Mayor and the Body of the City, the settling of their Militia, that it might be setled in the hands of pious and sober men, well affected to the Government, and free from Faction, <hi>&amp;c.</hi> The Citizens expressed much chearfullness in the presence of his Highness, and depar<g ref="char:EOLhyphen"/>ted with very great satisfaction.</p>
+               <pb n="50" facs="tcp:107801:26"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 17.</date>
+                  </label> The humble Petition and Representation of the Lord-Mayor, Aldermen and Common-Councel was presented by Sir <hi>Tho. Foot</hi> Alderman in the name of the whole City, which being Read, his Highness in brief expressed his sence and high esteem of the fidelity and good affection of the Petitioners, and desired that his hearty thanks might be returned to the Lord Mayor, Al<g ref="char:EOLhyphen"/>dermen and Common Council for the same.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 23.</date>
+                  </label> A person that came Ambassador from the King of <hi>Florida,</hi> having been some months Resident in <hi>England,</hi> took leave of his High<g ref="char:EOLhyphen"/>ness in order to his departure.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>March</hi> 24.</date>
+                  </label> A search was made in the Citys of <hi>London</hi> and <hi>Westminster</hi> for suspected and dangerous persons, and many were apprehended.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <date>
+                     <hi>Anno</hi> 1658.</date>
+               </head>
+               <p>
+                  <label>
+                     <date>
+                        <hi>MArch</hi> 27.</date>
+                  </label> The Officers of the Army made an humble Address to his Highness, and it was presented by that noble Lord the Lord <hi>Fleet<g ref="char:EOLhyphen"/>wood.</hi>
+               </p>
+               <pb n="51" facs="tcp:107801:26"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 8.</date>
+                  </label> We had news of a Victory it pleased God to give his Highness forces in <hi>Jamaica</hi> against the King of <hi>Spains</hi> Forces; together with a true Relation of the <hi>Spaniards</hi> losing of their Plate Fleet.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Ap<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> 16</date>
+                  </label> Divers were persons commit<g ref="char:EOLhyphen"/>ted to the Tower of <hi>London, viz.</hi> Dr. <hi>Hewit</hi> preach at <hi>Gregories</hi> by <hi>Pauls.</hi> Mr. <hi>Iohn Russel</hi> Brother to the Earle of <hi>Bedford,</hi> Sir <hi>William Compton</hi> Bro<g ref="char:EOLhyphen"/>ther of the Earl of <hi>Northampton,</hi> and divers others.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 18.</date>
+                  </label> That noble Lord, <hi>Robert</hi> Earl of <hi>Warwick</hi> died, a person of great honor and merit.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>April</hi> 27.</date>
+                  </label> A commission for erect<g ref="char:EOLhyphen"/>ing the High Court of Justice, accor<g ref="char:EOLhyphen"/>ding to Act of Parliament passed un<g ref="char:EOLhyphen"/>der the great Seal of <hi>England.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 5.</date>
+                  </label> Was kept a day of solemn Humiliation in <hi>London</hi> and <hi>Westmin<g ref="char:EOLhyphen"/>ster</hi> upon consideration of the Lords hand in visiting this Nation with sick<g ref="char:EOLhyphen"/>ness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 12.</date>
+                  </label> This day (according to his Highness Proclamation) the Com<g ref="char:EOLhyphen"/>missioners
+<pb n="52" facs="tcp:107801:27"/> of the High Court of Justice had their first meeting in the Painted Chamber, and they adjourned till Monday next three a clock in the after<g ref="char:EOLhyphen"/>noon.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 15.</date>
+                  </label> In the morning the Guards at <hi>VVhitehall</hi> were doubled; and at other places about <hi>London,</hi> at five aclock in the evening all the Horse and Foot were commanded to be in Arms. Most part of the day care was taken to apprehend many persons of the Cavalier party; and at seven a clock at night about 40 were brought to <hi>Whitehal,</hi> this night being the night which the Engineers of that party had designed for a rising, and places of Randevouz were appointed in several parts of the City They had many Regiments listed; eleven a clock at night was the time for them to be ready to act. They intended to fire the City in several places, and at an instant to put all into a confusion. This evening also the Regiments of the Trained Bands were in arms to secure the City till four a clock in the morning.</p>
+               <pb n="53" facs="tcp:107801:27"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 17.</date>
+                  </label> The Commissioners for the High Court of Justice met in the Painted Chamber.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 19.</date>
+                  </label> Was a day of solemn Humiliation through the whole Nati<g ref="char:EOLhyphen"/>on</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>May</hi> 25.</date>
+                  </label> Sir <hi>Hen. Slingsby</hi> was brought to his Tryal before the High Court of Justice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 1.</date>
+                  </label> Dr <hi>Iohn Hewit</hi> and Mr. <hi>Mordant</hi> were brought to a Trial be<g ref="char:EOLhyphen"/>fore the High Court of Justice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi>
+                        <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</date>
+                  </label> Sir <hi>Hen-Slingsby,</hi> and Dr. <hi>Iohn Hewit</hi> were condemned by the High Court of Justice to be drawn, and hanged and quartered at Tyborn, Mr. <hi>Iohn Mordant</hi> was acquitted.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 2.</date>
+                  </label> A Whale was taken in the Thames not far from <hi>Greenwich</hi> about sixty foot long, and a great bulk in other dimensions.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 6.</date>
+                  </label> Came news of a compleat Victory which it pleased God to give the English and French Forces over the Spanish Army at the Leagure be<g ref="char:EOLhyphen"/>fore <hi>Dunkirk</hi> wherein the Enemy lost 3200, whereof 2000 were taken priso<g ref="char:EOLhyphen"/>ners,
+<pb n="54" facs="tcp:107801:28"/> 1200 killed, they lost all their Bag<g ref="char:EOLhyphen"/>gage, all their Guns six in number, and 17 Cullours</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 8.</date>
+                  </label> Sir <hi>Henry Slingsby</hi> and Dr. <hi>Hewit</hi> were both beheaded on Tower<g ref="char:EOLhyphen"/>hill, his Highness having been graci<g ref="char:EOLhyphen"/>ously pleased to remit the severity of the sentence of the High Court of Justice.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 10.</date>
+                  </label> Cap. <hi>Hen. Mallery, Hum<g ref="char:EOLhyphen"/>phrey Bennet</hi> Esq; and <hi>Tho. VVoodcock,</hi> were brought to Tryal before the High Court of Justice</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 15</date>
+                  </label> Cap. <hi>Hen. Mallery</hi> was condemned, it being the same Sentence as was against Dr. <hi>Hewit.</hi> Mr. <hi>VVood<g ref="char:EOLhyphen"/>cock</hi> acquitted, and Sir <hi>Humphrey Ben<g ref="char:EOLhyphen"/>net</hi> was not farther prosecuted at that time.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi>
+                        <gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7.</date>
+                  </label> Came the news of the sur<g ref="char:EOLhyphen"/>render of <hi>Dunkirk</hi> to the English and French Forces, and that the King of <hi>France</hi> had put it into the hand of the Lord <hi>Lockhart,</hi> for the use of his High<g ref="char:EOLhyphen"/>ness the Lord Protector.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iune</hi> 30.</date>
+                  </label>
+                  <hi>Hartgil Baron</hi> of <hi>Croyden</hi> Gent. <hi>Francis Mansel</hi> Merchant both
+<pb n="55" facs="tcp:107801:28"/> in the <hi>Sussex</hi> Plot, together with others of the <hi>London</hi> Design, by name <hi>Rob. Manley</hi> o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>London</hi> Merchant, <hi>Robert Heron, Edm<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Seymor</hi> of <hi>London</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>Iohn S<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uthcoat</hi> of <hi>London</hi> Dra<g ref="char:EOLhyphen"/>per, and <hi>Guy Charlton</hi> alias <hi>Robert Clerk,</hi> were all of them indicted of High Treason in the Upper Bench for leavying war against his Highness and Commonwealth, to be proceeded a<g ref="char:EOLhyphen"/>gainst to the outlary for their treaso<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 1.</date>
+                  </label> The High Court of Justice sate, and proceeded to the Tryal of Col. <hi>Edward Ashton,</hi> and of <hi>Iohn Sum<g ref="char:EOLhyphen"/>ner, Edm. Stacy, VVill. Carrent, Iohn Betteley, Hen. Frier, Oliv. Allen</hi> of the City of <hi>London,</hi> they having been per<g ref="char:EOLhyphen"/>sons engaged in the traiterous Design laid within the City.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 2.</date>
+                  </label>
+                  <hi>Iohn Sumner, Edmond Stacy, Edward Ashton, Oliver Allen, Iohn Bet<g ref="char:EOLhyphen"/>teley</hi> and <hi>Hen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Frier</hi> were condemned to be drawn, hanged and quartered in several parts of the City.</p>
+               <p>
+                  <hi>VVilliam Carrent</hi> was quitted by the Court▪ <hi>Christopher Pits</hi> who re<g ref="char:EOLhyphen"/>fused to give his testimony against
+<pb n="56" facs="tcp:107801:29"/>
+                  <hi>Carrent</hi> was fined 1000 l. and impris<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ned during the pleasure of his High<g ref="char:EOLhyphen"/>ness.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 7.</date>
+                  </label> Col. <hi>Edward Ashton</hi> was drawn from Newgate on a Sled to Towerstreet, and there hanged and quartered.</p>
+               <p>The like execution was done on <hi>Iohn Betteley</hi> in Cheapside.</p>
+               <p>Also in the afternoon <hi>Henry Frier</hi> was drawn from the Tower to Smith<g ref="char:EOLhyphen"/>field and being on the Ladder, and the Executioner ready to turn him off, a Reprieve came, and he was conveyed away by the Officers to the Tower.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 9.</date>
+                  </label>
+                  <hi>Edmund Stacy</hi> was drawn from <hi>Newgate</hi> to the <hi>Old Exchange</hi> up<g ref="char:EOLhyphen"/>on a sled, was there hanged, but the rest of the sentence was remitted.</p>
+               <p>
+                  <hi>Iohn Sumner</hi> drawn upon a sled to <hi>Bishopsgate-street,</hi> and being under the Gibbet, his Highness was graciously pleased to grant him a reprieve.</p>
+               <p>
+                  <hi>Oliver Allen</hi> was likewise drawn on a sled from the Tower, to the upper end of <hi>Gracechurch street,</hi> and being come to the gibbet, his Highness gran<g ref="char:EOLhyphen"/>ted him a reprieve.</p>
+               <pb n="57" facs="tcp:107801:29"/>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Iuly</hi> 13,</date>
+                  </label> The High Court of Justice adjourned their sitting till the first of <hi>Novemb.</hi> next.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Aug.</hi> 6.</date>
+                  </label> The most illustrious Lady the Lady <hi>Elizabeth</hi> second Daughter of his Highness, departed this life, to the great grief of her Lord and Hus<g ref="char:EOLhyphen"/>band, their Highnesses and the whole Court.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Aug.</hi> 10,</date>
+                  </label> The Corps of the most illustrious Lady, the Lady <hi>Elizabeth</hi> were interred in <hi>Henry</hi> the Sevenths, Chappel in a vault made on purpose.</p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Aug</hi> 21.</date>
+                  </label> Came news of the sur<g ref="char:EOLhyphen"/>render of <hi>Graveline</hi> to the United for<g ref="char:EOLhyphen"/>ces of <hi>England</hi> and <hi>France.</hi>
+               </p>
+               <p>
+                  <label>
+                     <date>
+                        <hi>Sept</hi> 3.</date>
+                  </label> His most Serene and Re<g ref="char:EOLhyphen"/>nowned Highness, <hi>Oliver</hi> Lord Pro<g ref="char:EOLhyphen"/>tector, being after a sickness of four<g ref="char:EOLhyphen"/>teen days (which appeared an Ague in the beginning) reduced to a very Low condition of Body, began early this morning to draw near the gate of death, and it pleased God about three of the clock this afternoon to put a pe<g ref="char:EOLhyphen"/>riod to his Life, to the deep sorrow which hath possessed the minds of his
+<pb n="58" facs="tcp:107801:30"/> most noble Son and Successor, and o<g ref="char:EOLhyphen"/>ther near Relations and the whole good people of these Nations.</p>
+            </div>
+            <div type="section">
+               <head>The manner of conveying his Highness Corps from <hi>White<g ref="char:EOLhyphen"/>hal</hi> to <hi>Summerset-house.</hi>
+                  <date>September 26.</date>
+               </head>
+               <p>THis night the Corps of his late Highness was removed hence in private manner, being attended onely by his own Servants, <hi>viz.</hi> The Lord Chamberlain, and the Comptroller of his Highness Houshold, the Gentle<g ref="char:EOLhyphen"/>men of the Life guard, the Guard of Halberdiers, and many other Officers and Servants of his Highness. Two Heralds, or Officers of Arms went next before the Body, which being placed in a Herse drawn by six horses, was conveyed to <hi>Summerset house;</hi> where it rested for some days more private, but afterwards was exposed to pub<g ref="char:EOLhyphen"/>lick View.</p>
+            </div>
+            <div type="section">
+               <pb n="59" facs="tcp:107801:30"/>
+               <head>The manner of his Highness ly<g ref="char:EOLhyphen"/>ing in State in <hi>Somerset-house.</hi>
+               </head>
+               <p>THE first room the people enter, was formerly the presence cham<g ref="char:EOLhyphen"/>ber, which is hung compleatly with black, and at the Upper end a cloth of Estate, with a chair of Estate, standing upon the Haut-place, under the cloth of State.</p>
+               <p>From thence you pass to a second large Room, which was the Privie Chamber, all compleatly hung with black, and a cloth of Estate at the up<g ref="char:EOLhyphen"/>per end, having also a Chair of Estate upon the Haut-place, under the cloth of Estate.</p>
+               <p>The third Room is a large with<g ref="char:EOLhyphen"/>drawing Chamber, compleatly hung as the other with black cloth, and a cloth of Estate at the upper end, having also a Chair of Estate, as in the other rooms.</p>
+               <pb n="60" facs="tcp:107801:31"/>
+               <p>All these three large rooms are com<g ref="char:EOLhyphen"/>pleatly furnished with Escucheons of his Highness Arms, crowned with the Imperial Crown, and upon the Head of each cloth of Estate, is fixed a large Majesty Escucheon fairly painted, and gilt upon Taffity.</p>
+               <p>The fourth room, where both the Body and the Effigies do lie, compleat<g ref="char:EOLhyphen"/>ly hung with black Velvet, the roof of the said room cieled also with Vel<g ref="char:EOLhyphen"/>vet, and a large Canopie or cloth of Estate of black Velvet fringed over the Effigies; the Effigies it self appa<g ref="char:EOLhyphen"/>raled in a rich suit of uncut Velvet, being robed first in a Kirtle robe of purple Velvet, laced with a rich gold lace, and surr'd with Ermins; upon the Kirtle is the Royal large robe of the like purple Velvet placed and furr'd with Ermins, with rich strings, and tas<g ref="char:EOLhyphen"/>sels of Gold; his Kirtle is girt with a rich Embroidered belt, in which is a fair sword richly gilt, and hatcht with gold, hanging by the side of the Effigies, in the right hand is the gol<g ref="char:EOLhyphen"/>den Scepter, representing Govern<g ref="char:EOLhyphen"/>ment;
+<pb n="61" facs="tcp:107801:31"/> in his lest hand is held the Globe, representing Principality; upon his head, the Cap of Regality of pur<g ref="char:EOLhyphen"/>ple Velvet, fur'd with Ermins; behind the head is a rich chair of Estate or cloth of gold tissued; upon the Cushi<g ref="char:EOLhyphen"/>on of the Chair stands the Imperial Crown set with stones.</p>
+               <p>The whole Effigies lies upon a bed covered with a large Pall of Black Velvet under which is a fine Holland sheet upon six stools of cloth of gold tissued; by the sides of the Bed of state lies a rich suit of compleat Armor, re<g ref="char:EOLhyphen"/>presenting his command as General. At the feet of the Effigies stands his Crest, as is usual in all ancient Monu<g ref="char:EOLhyphen"/>ments.</p>
+               <p>The Bed of state upon which the Effigies so lies is Ascended unto by two A scents, covered with the aforesaid Pall of Velvet; and the whole work is incompassed about with Railes cove<g ref="char:EOLhyphen"/>red with Velvet; at each corner is a square Pillar upright, covered with Velvet, upon the tops of them are fuor beasts, supporters of the Imperial
+<pb n="62" facs="tcp:107801:32"/> Armes, bearing Banners, or streamers crowned; the Pillars are decorated with Trophies of Military honor, car<g ref="char:EOLhyphen"/>ved and gilt; the Pedestalls of the Pil<g ref="char:EOLhyphen"/>lars have sheilds and Crowns gilt, which makes the whole work noble and compleat; within the Railes stand eight great Standerts or Candlesticks of Silver, being almost 5 foot in height with great Tapers in them of Virgins wax, 3 foot in length,</p>
+               <p>Next to the Candlesticks are set up<g ref="char:EOLhyphen"/>right in sockets, the four great stan<g ref="char:EOLhyphen"/>derts of his Highness Armes, the Gui<g ref="char:EOLhyphen"/>dons, the great Banners and Banrolls, all of Taffity, richly gilt and painted; the cloth of Estate hath a Majesty scucheon fixed at the head, and upon the Velvet Hangings on each side of the Effigies, is a Majesty-scucheon, and the whole room fully and com<g ref="char:EOLhyphen"/>pleatly furnished with Taffity Scuche<g ref="char:EOLhyphen"/>ons.</p>
+            </div>
+            <div type="section">
+               <pb n="63" facs="tcp:107801:32"/>
+               <head>The manner of his Highness stand<g ref="char:EOLhyphen"/>ing in State at <hi>Sommerset<g ref="char:EOLhyphen"/>house.</hi>
+               </head>
+               <p>THe Effigies stands upon an Assent, under a Rich Cloth of Estate, being vested with Royal Robes, a Scep<g ref="char:EOLhyphen"/>ter in one hand, a Globe in the other, and a Crown on the head; a little distant beneath lyes his Armour, and round about are fixed the Banners, Banroles and Standards, with other Ensigns of honor, and the whole Room being spacious, is adorned in a Prince<g ref="char:EOLhyphen"/>ly manner</p>
+            </div>
+            <div type="section">
+               <head>The manner of his Highness Fu<g ref="char:EOLhyphen"/>neral Solemnities, <date>Novem. 23.</date>
+               </head>
+               <p>THis being the day appointed for the solemn Funerals of the most Serene and Renowned <hi>Oliver</hi> Lord Protector, and all things being ready prepared, the Effigies of his Highness standing under a rich Cloth of state,
+<pb n="64" facs="tcp:107801:33"/> having been beheld by those persons of honor and quality which came to attend it, was afterwards removed and placed on a Herse richly adorned and set forth with Escutcheons and other Ornaments, the Effigies it self being vested with royal Robes, a Scepter in one hand, a Globe in the other, and a Crown on the head. After it had been a while thus placed in the middle of the Room, when the time came that it was to be removed into the Carriage, it was carried on the Herse by ten of the Gentlemen of his Highness forth into the Court, where a Canopy of state very rich, was born over it, by six other Gentlemen of his Highness, till it was brought and placed on the Carriage, at each end whereof was a Seat, wherein sat two of the Gentlemen of his Highness Bed-chamber, the one at the head, the other at the feet of the Effigies. The Pall being made of Velvet and fine linen, was very large, extending on each side of the Carriage to be born by persons of honor, ap<g ref="char:EOLhyphen"/>pointed for that purpose, the Carri<g ref="char:EOLhyphen"/>age
+<pb n="65" facs="tcp:107801:33"/> it self was adorned with Plumes and Escutcheons, and was drawn by six horses, covered with black Velvet, each of them likewise adorned with Plumes of Feathers.</p>
+               <p>The manner of the Proceeding from hence along the Strand, towards West<g ref="char:EOLhyphen"/>minster we cannot (by reason of the shortness of time) give Information of, in all its particulars;</p>
+               <p>All along the way, on each side the Streets, the Soldiers were placed with<g ref="char:EOLhyphen"/>out the Rails.</p>
+               <p>A Knight Marshal on horseback, with his black Truncheon, tipt at both ends with gold, attended by his De<g ref="char:EOLhyphen"/>puty, and thirteen men on horseback.</p>
+               <p>After the Knight Marshal went the poor men of <hi>Westmester,</hi> two and two.</p>
+               <p>The persons in mourning which at<g ref="char:EOLhyphen"/>tended this Solemnity were very nu<g ref="char:EOLhyphen"/>merous.</p>
+               <p>There were servants to persons of all qualities; also all the Servants of his Highness, as well inferior and su<g ref="char:EOLhyphen"/>perior, as well those within his hous<g ref="char:EOLhyphen"/>hold as without; the servants and offi<g ref="char:EOLhyphen"/>cers
+<pb n="66" facs="tcp:107801:34"/> of the Lord Major of the City of <hi>London;</hi> Gentlemen attendants on publick Ministers and Ambassadors; poor Knights of <hi>Winsor;</hi> Secretaries, Clerks, and other officers belonging to the Army, Admiralty, Treasury, Navy and Exchequer; Officers in-command in the Fleet; Officers in command in the Army; Commissioners for Excise, and of the Army; Com<g ref="char:EOLhyphen"/>mittee of the Navy; Commissioners for approbation of preachers Officers and Clerks belonging to the Privy-Council; Clerks of the Council; Clerks of both Houses of Parliament; his Highness Physitians; head Officers of the Army; the cheif Officers and Al<g ref="char:EOLhyphen"/>dermen of <hi>London;</hi> Masters of the Chancery; his Highness Learned Coun<g ref="char:EOLhyphen"/>cil at Law, Judges of the Admiralty, Masters of Requests, Judges in <hi>Wales,</hi> Barons of the Exchequer, Judges of both Benches, Lord Major of <hi>London,</hi> persons allied in blood to his late High<g ref="char:EOLhyphen"/>ness, the Members of the Lords House, publick Ministers and Ambassadors of Foreign States and Princes, Lords
+<pb n="67" facs="tcp:107801:34"/> Commissioners of the Great Seal, Lords Commissioners of the Treasury, the Lords of his Highness Privy Coun<g ref="char:EOLhyphen"/>cil, the chief Mourner and those per<g ref="char:EOLhyphen"/>sons of honor that were his Assistants.</p>
+               <p>The Reader is to excuse the not na<g ref="char:EOLhyphen"/>ming these in order, the purpose being onely to declare the quality of the per<g ref="char:EOLhyphen"/>sons that attended.</p>
+               <p>A great part of those of the nobler sort were in close mourning the rest in ordinary. They were divers hours in passing, and in their passage dis<g ref="char:EOLhyphen"/>posed into several divisions each di<g ref="char:EOLhyphen"/>vision being distinguished by drums and Trompets, a Standerd or a Banner, born by a person of honor and his Assistant and a horse covered and led, of which horses four were covered with black cloth, and seven with Vel<g ref="char:EOLhyphen"/>vet, these being passed in their order, at length followed the Carriage with the Effigies; on each side of the Car<g ref="char:EOLhyphen"/>riage were born the Banner Roles being Twelve in number by Twelve persons of honor; and several peices of his Highness Armor were born by
+<pb n="68" facs="tcp:107801:35"/> honorable persons, Officers of the Army eight in number. After those noble persons that supported the <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all, followed <hi>Garter</hi> principal King of Arms attended with a Gentleman on each side bareheaded; next him the chief Mourner; and those Lords and noble persons that were Supporters, and Assistants to the chief Mourner. Next followed the Horse of Honor in very rich Equipage, led in a long Rein by the Master of the Horse. In the close followed his Highness Guard of Halberdiers, and the Warders of the Tower.</p>
+               <p>The whole Ceremony was mana<g ref="char:EOLhyphen"/>ged with very great State to Westmin<g ref="char:EOLhyphen"/>ster; many thousands of people being Spectators. At the West-gate of the Abby Church, the Herse with the Effi<g ref="char:EOLhyphen"/>gies thereon, was taken off the Carri<g ref="char:EOLhyphen"/>age by those ten Gentlemen who re<g ref="char:EOLhyphen"/>moved it before, who passing on to enter the Church, the Canopy of state was by the same persons borne over it again: and in this magnificent man<g ref="char:EOLhyphen"/>ner they carried it up to the East end
+<pb n="69" facs="tcp:107801:35"/> of the Abbey; and placed it in that Noble Structure which was raised there on purpose to receive it; where it is to remain for some time, exposed to publick view.</p>
+               <p>This is the last ceremony of honor, and less could not be performed to the Memory of him, to whom posterity will pay (when envy is laid asleep by time) more honor then we are able to express;</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
